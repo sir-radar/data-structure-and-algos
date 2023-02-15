@@ -14,5 +14,3 @@ function f(n) {
 
   return fib;
 }
-
-console.log(f(5));
